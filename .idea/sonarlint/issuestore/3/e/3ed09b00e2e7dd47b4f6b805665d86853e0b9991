@@ -1,0 +1,28 @@
+
+]
+java:S1192$"GDefine a constant instead of duplicating this literal "Tahoma" 3 times.(¿ßÓ¡
+C
+java:S1604)"(Make this anonymous inner class a lambda(„¿—âşÿÿÿÿ
+C
+java:S16041"(Make this anonymous inner class a lambda(—ù¾ïúÿÿÿÿ
+C
+java:S1604"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(øà²û
+l
+java:S1450Š"URemove the "bLihat" field and declare it as a local variable in the relevant methods.(¨ªÀ¨
+r
+java:S1450‹"VRemove the "bTambah" field and declare it as a local variable in the relevant methods.(ªİàıÿÿÿÿ
+r
+java:S1450Œ"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+E
+java:S1172Q"*Remove this unused method parameter "evt".(Äàåüùÿÿÿÿ
+E
+java:S1172Z"*Remove this unused method parameter "evt".(òÍ¾åşÿÿÿÿ
+E
+java:S1197f"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+[
+java:S2147u"ECombine this catch with the one at line 115, which has the same body.(¨¦Š½
+[
+java:S2147w"ECombine this catch with the one at line 115, which has the same body.(ã€ 
+Z
+java:S2147y"ECombine this catch with the one at line 115, which has the same body.(ñÎ¯%

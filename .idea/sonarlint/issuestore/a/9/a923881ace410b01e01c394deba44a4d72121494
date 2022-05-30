@@ -1,0 +1,21 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÈÑ½şÿÿÿÿ
+f	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÆ¥£
+b	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨ øû
+`
+java:S2259 "EA "NullPointerException" could be thrown; "koneksi" is nullable here.(ÕôáÈøÿÿÿÿ
+`
+java:S2259,"EA "NullPointerException" could be thrown; "koneksi" is nullable here.(ÕôáÈøÿÿÿÿ
+P
+java:S1118
+":Add a private constructor to hide the implicit public one.(¨ øû
+Z
+java:S2147"DCombine this catch with the one at line 18, which has the same body.(À‹ø„
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ
+D
+java:S2115")Add password protection to this database.(ËÍëúÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(—ÕÂ,
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æÔ£
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æÔ£
