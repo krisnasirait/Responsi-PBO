@@ -273,6 +273,10 @@ public class detailBarang extends javax.swing.JFrame {
                     totalharga = total-(0.25*(satuan*banyak));
                     labelTotal.setText("" + (String.format("%0,2d", (int) totalharga)));
                     }
+             else {
+                    totalharga = satuan * banyak;
+                    labelTotal.setText("" + (String.format("%0,2d", (int) totalharga)));
+                }
         
         
         
