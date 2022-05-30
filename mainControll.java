@@ -1,4 +1,4 @@
-package productmanager.product.controller;
+package productmanager.product.model;
 
 import java.awt.Point;
 import java.awt.event.ActionEvent;
